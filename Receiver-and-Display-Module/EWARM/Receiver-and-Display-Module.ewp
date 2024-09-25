@@ -358,18 +358,18 @@
                     <state>$PROJ_DIR$/../Drivers/BSP/STM32U0xx_Nucleo</state>
                     <state>$PROJ_DIR$/../Drivers/CMSIS/Device/ST/STM32U0xx/Include</state>
                     <state>$PROJ_DIR$/../Drivers/CMSIS/Include</state>
-                    <state>$PROJ_DIR$\..\Middlewares\TouchGFX\App</state>
-                    <state>$PROJ_DIR$\..\Middlewares\TouchGFX\target\generated</state>
-                    <state>$PROJ_DIR$\..\Middlewares\TouchGFX\target</state>
-                    <state>$PROJ_DIR$/../Middlewares/ST/touchgfx/framework/include</state>
-                    <state>$PROJ_DIR$\..\Middlewares\TouchGFX\generated\fonts\include</state>
-                    <state>$PROJ_DIR$\..\Middlewares\TouchGFX\generated\gui_generated\include</state>
-                    <state>$PROJ_DIR$\..\Middlewares\TouchGFX\generated\images\include</state>
-                    <state>$PROJ_DIR$\..\Middlewares\TouchGFX\generated\texts\include</state>
-                    <state>$PROJ_DIR$\..\Middlewares\TouchGFX\generated\videos\include</state>
-                    <state>$PROJ_DIR$\..\Middlewares\TouchGFX\gui\include</state>
-                    <state>$PROJ_DIR$\..\Middlewares\X-CUBE-SUBG2\App</state>
-                    <state>$PROJ_DIR$\..\Middlewares\X-CUBE-SUBG2\Target</state>
+                    <state>$PROJ_DIR$\..\TouchGFX\App</state>
+                    <state>$PROJ_DIR$\..\TouchGFX\target\generated</state>
+                    <state>$PROJ_DIR$\..\TouchGFX\target</state>
+                    <state>$PROJ_DIR$/../ST/touchgfx/framework/include</state>
+                    <state>$PROJ_DIR$\..\TouchGFX\generated\fonts\include</state>
+                    <state>$PROJ_DIR$\..\TouchGFX\generated\gui_generated\include</state>
+                    <state>$PROJ_DIR$\..\TouchGFX\generated\images\include</state>
+                    <state>$PROJ_DIR$\..\TouchGFX\generated\texts\include</state>
+                    <state>$PROJ_DIR$\..\TouchGFX\generated\videos\include</state>
+                    <state>$PROJ_DIR$\..\TouchGFX\gui\include</state>
+                    <state>$PROJ_DIR$\..\X-CUBE-SUBG2\App</state>
+                    <state>$PROJ_DIR$\..\X-CUBE-SUBG2\Target</state>
                     <state>$PROJ_DIR$\..\Drivers\CMSIS\Device\ST\STM32U0xx\Include</state>
                     <state>$PROJ_DIR$/../Drivers/CMSIS/Include</state>
                     <state>$PROJ_DIR$/../Drivers/BSP/custom</state>
