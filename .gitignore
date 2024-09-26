@@ -5,7 +5,7 @@
 *.map
 *.lst
 *.out
-*.hex
+#*.hex
 *.bin
 
 # Debug files
