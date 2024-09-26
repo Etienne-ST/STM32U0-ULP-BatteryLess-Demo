@@ -361,15 +361,15 @@
                     <state>$PROJ_DIR$\..\TouchGFX\App</state>
                     <state>$PROJ_DIR$\..\TouchGFX\target\generated</state>
                     <state>$PROJ_DIR$\..\TouchGFX\target</state>
-                    <state>$PROJ_DIR$/../ST/touchgfx/framework/include</state>
+                    <state>$PROJ_DIR$/../Middlewares/ST/touchgfx/framework/include</state>
                     <state>$PROJ_DIR$\..\TouchGFX\generated\fonts\include</state>
                     <state>$PROJ_DIR$\..\TouchGFX\generated\gui_generated\include</state>
                     <state>$PROJ_DIR$\..\TouchGFX\generated\images\include</state>
                     <state>$PROJ_DIR$\..\TouchGFX\generated\texts\include</state>
                     <state>$PROJ_DIR$\..\TouchGFX\generated\videos\include</state>
                     <state>$PROJ_DIR$\..\TouchGFX\gui\include</state>
-                    <state>$PROJ_DIR$\..\X-CUBE-SUBG2\App</state>
-                    <state>$PROJ_DIR$\..\X-CUBE-SUBG2\Target</state>
+                    <state>$PROJ_DIR$\..\Middlewares\X-CUBE-SUBG2\App</state>
+                    <state>$PROJ_DIR$\..\Middlewares\X-CUBE-SUBG2\Target</state>
                     <state>$PROJ_DIR$\..\Drivers\CMSIS\Device\ST\STM32U0xx\Include</state>
                     <state>$PROJ_DIR$/../Drivers/CMSIS/Include</state>
                     <state>$PROJ_DIR$/../Drivers/BSP/custom</state>
@@ -384,8 +384,6 @@
                     <state>$PROJ_DIR$/../TouchGFX/gui/include</state>
                     <state>$PROJ_DIR$\..\Core\Inc\TouchGFXDesigner</state>
                     <state>$PROJ_DIR$\..\TouchGFX\generated\images\include\images</state>
-                    <state>$PROJ_DIR$\..\Middlewares\ST\touchgfx\framework\include\touchgfx</state>
-                    <state>$PROJ_DIR$\..\Middlewares\ST\touchgfx\framework\include\touchgfx\hal</state>
                 </option>
                 <option>
                     <name>CCStdIncCheck</name>
@@ -1350,9 +1348,6 @@
                     <name>images</name>
                     <file>
                         <name>$PROJ_DIR$\..\TouchGFX\generated\images\src\BitmapDatabase.cpp</name>
-                        <excluded>
-                            <configuration>Receiver-and-Display-Module</configuration>
-                        </excluded>
                     </file>
                     <file>
                         <name>$PROJ_DIR$\..\TouchGFX\generated\images\src\image_background.cpp</name>

@@ -11,6 +11,7 @@ public:
     virtual ~Receiver_displayView() {}
     virtual void setupScreen();
     virtual void tearDownScreen();
+    virtual void handleTickEvent();
 protected:
 };
 
