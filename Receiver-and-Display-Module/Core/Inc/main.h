@@ -64,8 +64,8 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 //// Scale of graphs the LCD screen ////
 #define SCALE_LUX_GRAPH_MIN       (0)
-#define SCALE_LUX_GRAPH_MAX       (500)
-#define SCALE_LUX_GRAPH_INTERVAL  (100)
+#define SCALE_LUX_GRAPH_MAX       (1000)
+#define SCALE_LUX_GRAPH_INTERVAL  (200)
 
 #define SCALE_TEMP_GRAPH_MIN      (16)
 #define SCALE_TEMP_GRAPH_MAX      (36)

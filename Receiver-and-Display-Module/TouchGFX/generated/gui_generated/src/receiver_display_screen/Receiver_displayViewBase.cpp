@@ -48,12 +48,12 @@ Receiver_displayViewBase::Receiver_displayViewBase()
     lux_graph.setGraphAreaMargin(8, 30, 25, 16);
     lux_graph.setGraphAreaPadding(0, 3, 3, 3);
     
-//    lux_graph.setGraphRangeY(0, 500);
+//    lux_graph.setGraphRangeY(0, 1000);
     lux_graph.setGraphRangeY(SCALE_LUX_GRAPH_MIN, SCALE_LUX_GRAPH_MAX);
         
     lux_graphMajorYAxisGrid.setColor(touchgfx::Color::getColorFromRGB(3, 35, 75));
     
-//    lux_graphMajorYAxisGrid.setInterval(100);
+//    lux_graphMajorYAxisGrid.setInterval(200);
     lux_graphMajorYAxisGrid.setInterval(SCALE_LUX_GRAPH_INTERVAL);
         
     lux_graphMajorYAxisGrid.setLineWidth(1);
