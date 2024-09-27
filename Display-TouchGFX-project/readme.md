@@ -8,3 +8,5 @@ Performance testing can be done using the GPIO pins designated with the followin
  - VSYNC_FREQ  - Pin PC8 (CN10 - PIN 2)
  - RENDER_TIME - Pin PC6 (CN10 - PIN 4)
  - FRAME_RATE  - Pin PC5 (CN10 - PIN 6)
+
+
