@@ -11,7 +11,7 @@ It contains the two main sub-projects:
 It also contains one additional project:
 - The full project of the TouchGFX Designer display (**XTRA_Display-TouchGFX-project**), from which the display part of the **Receiver-and-Display-Module** is based. It was developped with **TouchGFX 4.24.0 Designer**. 
 
-For more information, refer to the related [**STM32 wiki article**](https://wiki.st.com/stm32mcu/wiki/How_to_develop_ultra-low-power_and_battery_less_demo_with_STM32U0_MCUs).
+For more information, refer to  [**How to develop ultra-low-power and battery less demo with STM32U0 MCUs**](https://wiki.st.com/stm32mcu/wiki/How_to_develop_ultra-low-power_and_battery_less_demo_with_STM32U0_MCUs), the related wiki article.
 
 ## Hardware used
 
