@@ -9,3 +9,4 @@
 | BSP Components STTS22H  | STMicroelectronics              | BSD-3-Clause |
 | BSP S2868A2             | STMicroelectronics              | BSD-3-Clause |
 | BSP STM32U083-DK        | STMicroelectronics              | BSD-3-Clause |
+| TouchGFX                | STMicroelectronics              | SLA0044      |
