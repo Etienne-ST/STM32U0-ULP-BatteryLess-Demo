@@ -1,5 +1,7 @@
 # STM32-Hotspot/ULP & battery less demo with STM32U0
 
+### Related [**STM32 wiki article**](https://wiki.st.com/stm32mcu/wiki/How_to_develop_ultra-low-power_and_battery_less_demo_with_STM32U0_MCUs).
+
 This project is partial project of the **battery less demo with STM32U0**.
 
 It contains the two main sub-projects: 
@@ -7,9 +9,9 @@ It contains the two main sub-projects:
 - Licence free parts of the **Receiver-and-Display-Module** project, developped with **IAR 8.50**.
 
 It also contains one additional project:
-- The full project of the TouchGFX Designer display (**XTRA_Display-TouchGFX-project**), from which the display part of the **Receiver-and-Display-Module** is based. It was developped with **TouGFX 4.24.0 Designer**. 
+- The full project of the TouchGFX Designer display (**XTRA_Display-TouchGFX-project**), from which the display part of the **Receiver-and-Display-Module** is based. It was developped with **TouchGFX 4.24.0 Designer**. 
 
-For more information, refer to the related [STM32 wiki article](https://wiki.st.com/stm32mcu/wiki/How_to_develop_ultra-low-power_and_battery_less_demo_with_STM32U0_MCUs).
+For more information, refer to the related [**STM32 wiki article**](https://wiki.st.com/stm32mcu/wiki/How_to_develop_ultra-low-power_and_battery_less_demo_with_STM32U0_MCUs).
 
 ## Hardware used
 
